@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Thein Htet Aung
 
-![GitHub Profile Banner](./assets/github-banner.png)
-
+<div align="center">
+  <img src="profile.png" alt="GitHub Profile Banner" width="100%">
+</div>
 I am an undergraduate student at the **Myanmar Institute of Information Technology (MIIT)**, passionate about **programming, software development, and problem solving**.
 
 I have studied and practiced **Python**, **Java SE**, and **.NET**. I am especially interested in **Object-Oriented Programming (OOP)** and backend development using **ASP.NET Core Web API**, **ASP.NET MVC**, and **Blazor**.
