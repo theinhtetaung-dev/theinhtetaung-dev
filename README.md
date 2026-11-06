@@ -7,20 +7,23 @@
 
 [LinkedIn](https://www.linkedin.com/in/thein-htet-aung-22435a393/) · [Email](mailto:theinhtetaung.developer@gmail.com) · [GitHub](https://github.com/theinhtetaung-dev)
 
-I am an undergraduate student at the **Myanmar Institute of Information Technology (MIIT)**, passionate about programming, software development, and problem solving. I build backend applications with **.NET** and enjoy turning software engineering concepts into practical, maintainable projects.
-
-My current focus is the .NET ecosystem—ASP.NET Core Web API, ASP.NET MVC, Blazor, and Entity Framework Core—alongside clean architecture, authentication and authorization, database design, and real-world backend project structure.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <img alt="About Thein Htet Aung — backend developer profile" src="assets/about-light.svg" width="100%">
+</picture>
 
 ---
 
 ### Featured Work
 
-| Project | What it explores | Stack |
-| :--- | :--- | :--- |
-| [YaungMel_POS](https://github.com/theinhtetaung-dev/YaungMel_POS) | A point-of-sale system with a .NET Web API, database migrations, and Docker support | C# / TypeScript |
-| [RPS-Flask-Arduino](https://github.com/theinhtetaung-dev/RPS-Flask-Arduino) | An AI vision Rock–Paper–Scissors game with Flask and Arduino integration | C++ |
-| [HotPot-Restaurant](https://github.com/theinhtetaung-dev/HotPot-Restaurant) | A hot-pot reservation system covering table, booking, and expiration management | C# / HTML |
-| [opom-hsum-chaint-csharp](https://github.com/theinhtetaung-dev/opom-hsum-chaint-csharp) | A monastery and donation-management platform with a .NET API and Next.js admin portal | C# / Next.js |
+<p>
+  <a href="https://github.com/theinhtetaung-dev/YaungMel_POS"><img src="assets/cards/yaungmel-pos.svg" width="49%" alt="YaungMel POS animated project card"></a>
+  <a href="https://github.com/theinhtetaung-dev/RPS-Flask-Arduino"><img src="assets/cards/rps-flask-arduino.svg" width="49%" alt="RPS Flask Arduino animated project card"></a>
+</p>
+<p>
+  <a href="https://github.com/theinhtetaung-dev/HotPot-Restaurant"><img src="assets/cards/hotpot-restaurant.svg" width="49%" alt="HotPot Restaurant animated project card"></a>
+  <a href="https://github.com/theinhtetaung-dev/opom-hsum-chaint-csharp"><img src="assets/cards/hsum-chaint.svg" width="49%" alt="Hsum Chaint animated project card"></a>
+</p>
 
 ---
 
